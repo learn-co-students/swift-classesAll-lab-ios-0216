@@ -7,3 +7,7 @@
 //
 
 import Foundation
+
+func weDidThisAlready() -> String {
+    return "This lab is a repeat, but I want to commit something to know that I acknowledged it"
+}
